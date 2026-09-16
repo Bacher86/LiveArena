@@ -1,0 +1,6 @@
+{
+  "name": "ArenaLive - Mis Cosas",
+  "description": "Plataforma de subastas en vivo, rifas con custodia verificada y seguimiento de participaciones, pujas y tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
